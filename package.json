@@ -1,0 +1,43 @@
+{
+  "name": "electron-phaser",
+  "version": "0.0.1",
+  "description": "An amalgamation of electron with PhaserJS.",
+  "main": "main.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitanata/Electron-Phaser"
+  },
+  "keywords": [
+    "Electron",
+    "PhaserJS"
+  ],
+  "author": "GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitanata/Electron-Phaser/issues"
+  },
+  "homepage": "https://github.com/kitanata/Electron-Phaser",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "es6-promise": "^3.2.1",
+    "jquery": "~2.2.2",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "electron": "^1.4.3",
+    "babel-plugin-lodash": "^3.2.5",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "run-sequence": "^1.2.2"
+  }
+}
