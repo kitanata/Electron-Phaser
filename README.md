@@ -44,3 +44,7 @@ more like an open wiki than a standard guarded open source project.
 Read more at http://www.openopensource.org
 
 Please contribute!
+
+# Code Camp Notes
+
+The assets for the workshop is located here: http://www.filedropper.com/puzzleassets80assets
